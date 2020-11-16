@@ -1,0 +1,80 @@
+ body{
+ 	background: #14551a;
+ }
+
+
+
+ .img1{
+display: flex;
+ 	 margin: auto;
+ 	height: 500px;
+ 	border: 5px solid #13da26;
+ 	box-shadow: 0 0 10px #13da26, 0 0 40px #13da26, 0 0 80px #13da26;
+ 	padding: 20px;
+ 	 }
+ 	 .text1{
+ 	 	color: #fff;
+ 	 	font-size: 24px;
+	font-family: consolas;
+	margin:10px 0px 0px 10px;
+ 	 }
+ 	 .gg{
+ 	 	font-size: 30px;
+
+ 	 }
+ 	 .img2{
+ 	 	display: flex;
+ 	 margin: auto;
+ 	height: 500px;
+ 	border: 5px solid #13da26;
+ 	box-shadow: 0 0 10px #13da26, 0 0 40px #13da26, 0 0 80px #13da26;
+ 	padding: 20px;
+ 	 }
+
+ 	 .hh{
+ 	 	font-size: 30px;
+ 	 } 
+ 	 .text2{
+ 	 	color: #fff;
+ 	 	font-size: 24px;
+	font-family: consolas;
+	margin:10px 0px 0px 10px;
+ 	 }
+
+ 	 .img3{
+ 	 	display: flex;
+ 	 margin: auto;
+ 	height: 500px;
+ 	border: 5px solid #13da26;
+ 	box-shadow: 0 0 10px #13da26, 0 0 40px #13da26, 0 0 80px #13da26;
+ 	padding: 20px;
+ 	 }
+ 	 .text3{
+ 	 	color: #fff;
+ 	 	font-size: 24px;
+	font-family: consolas;
+	margin:10px 0px 0px 10px;
+ 	 }
+ 	 .jj{
+ 	 	font-size: 30px;
+ 	 }
+ 	 .buttonback{
+	font-family:  consolas ;
+	margin:auto;
+	padding: 10px;
+	display: flex; ;
+	justify-content: center;
+	align-items: center;
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 30px;
+	letter-spacing: 2px;
+	border-radius: 1000px;
+	width: 200px;
+	height: 50px;
+	min-height: 21vh;
+	box-shadow: 0 0 10px #00ff18, 0 0 40px #00ff18, 0 0 80px #00ff18;
+ 	padding: 20px;
+	background: linear-gradient(90deg,#106819,#00ff18);
+}

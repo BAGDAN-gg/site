@@ -1,0 +1,14 @@
+ body{
+ 	background: black;
+ 	margin: 0px;
+ 	padding: 0px;
+ }
+
+
+ .gg{
+ 	display: flex;
+ 	margin: 400px;
+ 	justify-content: center;
+ 	color: white;
+ 	font-size: 100px;
+ }

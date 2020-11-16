@@ -1,0 +1,72 @@
+ body
+ {
+ 	margin: 0px;
+ 	padding: 100px;
+ 	display: flex;
+ 	justify-content: center;
+ 	align-items: center;
+ 	min-height: 75vh; 
+ 	background:url('../IMG/фон.jpg');
+ 	background-size: cover;
+ 	font-family: consolas;
+ }
+ .butt1
+ {
+ 	margin: 0px 300px 0px 0px;
+ 	display: flex;
+ 	padding: 15px 30px;
+ 	color: #2196f3;
+ 	text-transform: uppercase;
+ 	letter-spacing: 3px;
+ 	text-decoration: none;
+ 	font-size: 24px;
+ 	overflow: hidden;
+ 	transition: 0.2s;
+
+ }
+ .butt1:hover
+ {
+ 	color: #255784;
+ 	background: #2196f3;
+ 	box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px 
+ 	#2196f3;
+ }
+ .butt2
+{
+ 	margin: 0px 0px 0px 300px;
+ 	display: flex;
+ 	padding: 15px 30px;
+ 	color: #54cb25;
+ 	text-transform: uppercase;
+ 	letter-spacing: 3px;
+ 	text-decoration: none;
+ 	font-size: 24px;
+ 	overflow: hidden;
+ 	transition: 0.2s;
+
+ }
+ .butt2:hover
+ {
+ 	color: #23620a;
+ 	background: #54cb25;
+ 	box-shadow: 0 0 10px #54cb25, 0 0 40px #54cb25, 0 0 80px 
+ 	#54cb25;
+ }
+ .haha{
+ 	margin: 700px 50px 0px 0px;
+	padding: 10px;
+	display:  flex; ;
+	justify-content: center;
+	align-items: center;
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 30px;
+	letter-spacing: 2px;
+	border-radius: 1000px;
+	width: 200px;
+	height: 0px;
+	min-height: 5vh;
+	 
+	background: linear-gradient(90deg,#23620a,#255784);
+ }
